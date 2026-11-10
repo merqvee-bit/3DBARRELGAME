@@ -2,7 +2,7 @@
 
 ## Bağlantılar
 - **GitHub Release (proje dosyası):** https://github.com/merqvee-bit/3DBARRELGAME/releases/tag/v1.0
-- **itch.io (tarayıcıda oyna):** eklenecek
+- **itch.io (tarayıcıda oyna):** https://merqvee-bit.itch.io/vize
 
 ## Özet
 Karlı bir köyde akşam güneşi batarken köyün şarap dağıtıcısısın. Haritaya dağılmış 10 şarap varilini radar yardımıyla bulup evlerin yanındaki sarı yuvalara itmelisin. 60 saniye dolmadan hepsini yerleştirirsen kazanırsın.
