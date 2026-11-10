@@ -1,0 +1,20 @@
+# Unity tarafından üretilen klasörler
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
+.idea/
+
+# Otomatik üretilen proje dosyaları
+*.csproj
+*.sln
+*.slnx
+
+# Burst
+*_BurstDebugInformation_DoNotShip/
