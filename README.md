@@ -1,7 +1,7 @@
 # Karlı Köy: Şarap Varili Teslimatı
 
 ## Bağlantılar
-- **GitHub Release (proje dosyası):** eklenecek
+- **GitHub Release (proje dosyası):** https://github.com/merqvee-bit/3DBARRELGAME/releases/tag/v1.0
 - **itch.io (tarayıcıda oyna):** eklenecek
 
 ## Özet
